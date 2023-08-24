@@ -28,7 +28,7 @@ const Checkout = () => {
                 },
                 application_fee_amount:plateformAmount,
                 transfer_data:{
-                    destination:"acct_1NeikQQSmFQD5Tbs"
+                    destination:"acct_1Ng9DC4KVlRvwoGf"
                 }
             });
             const clientsecret=paymentIntent.client_secret;
